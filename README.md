@@ -11,7 +11,7 @@ And finally the jito auth keypair, recently jito has removed whitelisting so nor
 in the bundling process, the dev wallet will not be connected onchain to any of the others wallets that buy (not on sell)
 provided that the ghost bundler wallet was funded from a seperate source.
 
-Join pumpX [discord](https://discord.gg/j3szDJ6CH9) for more info.
+Contact https://t.me/idioguru for more info.
 
 
 ### Prerequisites
