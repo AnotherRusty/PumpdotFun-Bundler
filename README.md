@@ -1,5 +1,11 @@
 # PumpX Bundler.
 
+## 🚨 SCAMMERS 🚨
+
+Watch out for other scammers on GitHub - they either sell my outdated program which has been closed or simply selling blank files.
+
+You have been warned.
+
 ## Getting Started
 
 PumpX Bundler allows you to hide the bundled trades on pump.fun only and showing only the dev buy.
