@@ -9,6 +9,3 @@ This is the best, fastest, and most efficient self-bundling script for PumpFun, 
 
 ## Contributing
 We welcome contributions! Please submit a pull request or open an issue to discuss any changes.
-
-## ContactInfo
-Telegram: https://t.me/idioRusty
